@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Kanishka Thakur.
-- 👀 I’m interested in Data Analytics and Data Engineering.
-- 🌱 I’m currently learning DBT and Data Warehousing.
+- 👀 I’m interested in Analytics Engineering and Data Engineering.
+- 🌱 I’m currently working as a Data Engieer with BigQuery, dbt and Airflow!
 - 💞️ I’m looking to collaborate on data driven projects!
 - 📫 How to reach me: kanishka.thakur15@gmail.com
-- 😄 Pronouns: He/Him/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to work as a Zookeeper with Reptiles and Amphibians!
 
 <!---
